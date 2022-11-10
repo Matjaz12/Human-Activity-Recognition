@@ -2,5 +2,4 @@
 
 ## Set up
 
-To set up the environment fetch the following command: `pip install -r requirements.txt`.# Human-Activity-Recognition
-# Human-Activity-Recognition
+To set up the environment fetch the following command: `pip install -r requirements.txt`.
